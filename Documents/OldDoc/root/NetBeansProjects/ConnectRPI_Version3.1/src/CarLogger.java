@@ -8,7 +8,7 @@ import javax.microedition.io.*;
 import org.joda.time.DateTime;
 import org.joda.time.format.DateTimeFormat;
 import org.joda.time.format.DateTimeFormatter;
-
+//NOTHING
 
 public class CarLogger implements Runnable{
 
